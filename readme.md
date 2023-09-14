@@ -1,6 +1,5 @@
 # 文件结构
 > 学习k8s的记录 -自用
----
 ## Install
 0.0-8sinstall20230911.md
 ## Pod
