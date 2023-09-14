@@ -21,7 +21,7 @@ Practical operation Service.assets/
 PracticalOperation-pod.assets/
 k8sinstall20230911.assets/
 ## Yaml Eg
-└─A.A-jinsique
-    └─jinsique.assets
+A.A-jinsique
+
 
 
