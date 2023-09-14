@@ -1,8 +1,8 @@
-# 目录
+# 文件结构
+
+> 学习k8s的记录 -自用
 
 ---
-
-
 ## Install
 
  0.0-8sinstall20230911.md
@@ -45,7 +45,7 @@ Practical operation Service.assets/
 PracticalOperation-pod.assets/
 k8sinstall20230911.assets/
 
-##Yaml Eg
+## Yaml Eg
 
 └─A.A-jinsique
     └─jinsique.assets
