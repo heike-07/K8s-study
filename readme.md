@@ -2,6 +2,8 @@
 > 学习k8s的记录 -自用
 ## Install
 0.0-8sinstall20230911.md
+
+0.1-K8s rescue plan.md
 ## Pod
 1.1-PracticalOperation-pod.md
 ## Deployment&ReplicaSet
@@ -16,9 +18,13 @@
 1.6-Practical operation Canary Release Mode.md
 ## .Assets
 Practical operation Canary Release Mode.assets/
+
 Practical operation Service.assets/
+
 PracticalOperation-pod.assets/
+
 k8sinstall20230911.assets/
+
 ## Yaml Eg
 A.A-jinsique
 
